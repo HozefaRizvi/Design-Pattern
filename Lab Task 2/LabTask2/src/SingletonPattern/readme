@@ -1,0 +1,5 @@
+I have implemented singleton pattern using a real world problem 
+Scenerio: 
+    In  a bank there is one cashier that can do many task at a time like he/she can deposit or withdraw cash of many user
+    at a time but as we know there is only one cashier and not differant cashier for each user/customer
+    Same logic apply here as we create only one instance of a class that can be globally accessed 
